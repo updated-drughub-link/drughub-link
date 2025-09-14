@@ -4,12 +4,12 @@ DrugHub: Market is a well-known destination on the darknet, attracting those see
 
 ## DrugHub: Market URL:
 
-http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion
+http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion
 
-[<img src="/backgrounds/image.webp" width="200">](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion)
+[<img src="/backgrounds/image.webp" width="200">](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion)
 
 
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/backgrounds/grab.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/backgrounds/grab.webp" alt="image" style="max-width: 100%;"><a>
 
 This is an educational platform designed solely for informational purposes, offering a look into the dark web. We do not collect commissions or kickbacks from market affiliate links. We are not affiliated with any legal entities and do not endorse or promote illegal activities. Always prioritize safety.
 
@@ -22,8 +22,8 @@ To protect yourself from potential scams, it is essential to only use trusted Dr
 If you are looking to explore everything this darknet marketplace offers, always prioritize your security and take the necessary precautions when browsing and making purchases, starting with the DrugHub link.
 
 
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/backgrounds/delta.webp" alt="image" style="max-width: 100%;"><a>  
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/backgrounds/scan.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/backgrounds/delta.webp" alt="image" style="max-width: 100%;"><a>  
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/backgrounds/scan.webp" alt="image" style="max-width: 100%;"><a>
 
 
 
@@ -33,4 +33,6 @@ If you are looking to explore everything this darknet marketplace offers, always
 
 
 
-Update:  12 September link is functioning and active
+
+
+Update:  14 September
